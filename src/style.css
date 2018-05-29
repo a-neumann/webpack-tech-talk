@@ -1,0 +1,7 @@
+@import "typo.css";
+
+body {
+    background: rgb(0, 0, 0);
+    color: rgb(230, 200, 10);
+    text-align: center;
+}
